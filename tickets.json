@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "ticket_number": "12345",
+    "activated": false,
+    "user_id": null
+  }
+]
