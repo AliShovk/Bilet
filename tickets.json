@@ -3,5 +3,10 @@
     "ticket_number": "001848",
     "activated": true,
     "user_id": 5405885462
+  },
+  {
+    "ticket_number": "001860",
+    "activated": false,
+    "user_id": null
   }
 ]
