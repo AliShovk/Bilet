@@ -21,7 +21,7 @@
   },
   {
     "ticket_number": "12300",
-    "activated": false,
-    "user_id": null
+    "activated": true,
+    "user_id": 5405885462
   }
 ]
