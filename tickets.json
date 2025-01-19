@@ -1,7 +1,7 @@
 [
   {
     "ticket_number": "654789",
-    "activated": false,
-    "user_id": null
+    "activated": true,
+    "user_id": 5405885462
   }
 ]
