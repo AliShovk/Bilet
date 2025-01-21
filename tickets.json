@@ -1,12 +1,1 @@
-[
-  {
-    "ticket_number": "1234",
-    "activated": true,
-    "user_id": 5405885462
-  },
-  {
-    "ticket_number": "658",
-    "activated": true,
-    "user_id": 5405885462
-  }
-]
+[]
