@@ -13,5 +13,10 @@
     "ticket_number": "0002",
     "activated": false,
     "user_id": null
+  },
+  {
+    "ticket_number": "0003",
+    "activated": false,
+    "user_id": null
   }
 ]
