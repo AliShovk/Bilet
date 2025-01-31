@@ -6,8 +6,8 @@
   },
   {
     "ticket_number": "000",
-    "activated": false,
-    "user_id": null
+    "activated": true,
+    "user_id": 5405885462
   },
   {
     "ticket_number": "0002",
