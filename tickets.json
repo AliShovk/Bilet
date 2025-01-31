@@ -8,5 +8,10 @@
     "ticket_number": "000",
     "activated": false,
     "user_id": null
+  },
+  {
+    "ticket_number": "0002",
+    "activated": false,
+    "user_id": null
   }
 ]
